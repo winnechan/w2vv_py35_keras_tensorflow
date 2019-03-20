@@ -14,7 +14,7 @@ transfer the py2-version repository w2vv (official code https://github.com/danie
 # Enviroment
 1. Windows 10
 2. python 3.5
-3. TensorFlow 1.8.0
+3. TensorFlow 1.8.0 Cuda 9.0
 4. keras 2.1.6 with TensorFlow backend
 5. pydot 1.2.3 + Graphviz
 6. tensorboard_logger for tensorboard visualization
